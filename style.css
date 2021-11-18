@@ -1,0 +1,28 @@
+#plus{
+    color: green;
+}
+
+#minus{
+    color: red;
+}
+
+#reset{
+    color: grey;
+}
+
+body{
+    background-color: wheat;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#btn{
+    display: inline;
+}
+
+button{
+    margin: 5px;
+}
